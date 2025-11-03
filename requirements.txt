@@ -37,7 +37,7 @@ libf0
 transformers==4.44.2
 
 # Visualization and UI
-matplotlib==3.7.2
+matplotlib==3.10.7
 tensorboard
 gradio==4.43.0
 
