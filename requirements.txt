@@ -6,7 +6,7 @@ numpy==1.23.5
 requests>=2.31.0,<2.32.0
 tqdm
 wget
-pydantic==2.8.2
+pydantic==2.12.5
 fastapi==0.112.0
 starlette==0.37.2
 
