@@ -12,7 +12,7 @@ starlette==0.37.2
 
 # Audio processing
 ffmpeg-python>=0.2.0
-faiss-cpu==1.7.3
+faiss-cpu==1.13.1
 librosa==0.9.2
 pyworld==0.3.4
 scipy==1.11.1
